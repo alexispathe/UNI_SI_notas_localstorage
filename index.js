@@ -35,3 +35,4 @@ const crearNotas =()=>{
     contenedor = document.getElementById("notas");
     contenedor.innerHTML=htmlnuevo;
 }
+crearNotas();
